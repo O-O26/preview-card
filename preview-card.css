@@ -22,9 +22,9 @@ body{
   padding: 3.1em;
   border-radius: 10px 0 0 10px;
 }
-.item1 .button{
+/* .item1 .button{
   margin: 6.2em 0 0 0;
-}
+} */
 .item2{
   grid-area: item2;
   background-color: hsl(184, 100%, 22%);
@@ -37,9 +37,9 @@ body{
   padding: 3.1em;
   border-radius: 0 10px 10px 0;
 }
-.item3 .button{
+/* .item3 .button{
   margin: 6.3em 0 0 0;
-}
+} */
 
 .item3 p{
   font-size: 1.3em;
